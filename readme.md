@@ -10,6 +10,8 @@ und in Minecraft - Resourcen Verzeichnis speichern.
 
 ![](resources.png)
 
+![](folder.png)
+
 Dann einfach nach rechts schieben.
 
 ![](right.png)
@@ -54,7 +56,7 @@ Wir haben geändert:
 * Diamant
 * Lapis
 
-![](files.png)
+![](blocks.png)
 
 und vieles mehr
 
