@@ -2,7 +2,11 @@
 
 Farbenfrohe und lustige Texturen für Minecraft,
 
-einfach über "Zip-Download" runterladen und in Minecraft - Resourcen Verzeichnis speichern.
+einfach über ["Zip-Download"](https://github.com/technogirls/brilliant-minecraft-textures/archive/master.zip) runterladen 
+
+![](download.png)
+
+und in Minecraft - Resourcen Verzeichnis speichern.
 
 ![](resources.png)
 
