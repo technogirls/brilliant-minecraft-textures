@@ -1,0 +1,31 @@
+{
+	"__comment": "Created by Schmueles for Depixel - https://polyflore.net/projects/depixel",
+	"textures": {
+		"particle": "#texture",
+		"texture": "#texture"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "top bar",
+			"from": [ 7, 12, 0 ],
+			"to": [ 9, 15, 8 ],
+			"faces": {
+				"down": { "uv": [ 11, 0, 13, 8 ], "texture": "#texture" },
+				"up": { "uv": [ 11, 0, 13, 8 ], "texture": "#texture", "rotation": 180 },
+				"west": { "uv": [ 8, 0, 11, 8 ], "texture": "#texture", "rotation": 90 },
+				"east": { "uv": [ 11, 0, 8, 8 ], "texture": "#texture", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "top bar",
+			"from": [ 7, 6, 0 ],
+			"to": [ 9, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 11, 0, 13, 8 ], "texture": "#texture" },
+				"up": { "uv": [ 11, 0, 13, 8 ], "texture": "#texture", "rotation": 180 },
+				"west": { "uv": [ 8, 0, 11, 8 ], "texture": "#texture", "rotation": 90 },
+				"east": { "uv": [ 11, 0, 8, 8 ], "texture": "#texture", "rotation": 270 }
+			}
+		}
+	]
+}

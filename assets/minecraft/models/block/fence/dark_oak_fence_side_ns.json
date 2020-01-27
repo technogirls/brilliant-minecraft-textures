@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence/fence_side_ns",
+    "textures": {
+        "texture": "block/dark_oak_fence"
+    }
+}
